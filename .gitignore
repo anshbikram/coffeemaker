@@ -1,0 +1,28 @@
+// Intellij
+.idea/
+*.iml
+// target files
+target/
+*.class
+*.jar
+*.ipr
+*.iws
+.project
+.classpath
+.factorypath
+.settings
+
+// Mac
+.DS_Store
+dependency-reduced-pom.xml
+
+// IDEA
+*.project
+*.settings
+*.classpath
+*.factorypath
+
+// VS Code
+.vscode
+**/jacoco-it*.exec
+out
